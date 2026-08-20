@@ -1,0 +1,8 @@
+const items = [ Pencil, Eraser, Pen]
+
+<View>
+<Flatlist
+data = {items}
+keyExtractor = {(item, index) => index.toString()}
+renderItem = {({ item }) => (<Text>{item}</Text)} />
+</View>

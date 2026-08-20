@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Capstone Requirements Coverage & Evaluation Matrix
+<!-- ## 🎯 Capstone Requirements Coverage & Evaluation Matrix
 
 | Deliverable / Requirement | Description | Implementation Status |
 | :--- | :--- | :---: |
@@ -36,7 +36,7 @@
 | **Responsive UI Design** | Custom design system supporting mobile phones, tablets, and web browser viewports with `maxWidth: 800` centering. | ✅ **100% Completed** |
 | **Code Quality & Type Safety** | Clean React Native Expo SDK 54 codebase with TypeScript (`npx tsc --noEmit` clean with 0 errors). | ✅ **100% Completed** |
 
----
+--- -->
 
 ## 🏗️ Architecture & Technology Stack
 
